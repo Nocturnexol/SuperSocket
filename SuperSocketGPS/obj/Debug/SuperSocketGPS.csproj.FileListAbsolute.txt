@@ -19,3 +19,6 @@ C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketG
 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\obj\Debug\SuperSocketGPS.exe
 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\obj\Debug\SuperSocketGPS.pdb
 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\obj\Debug\SuperSocketGPS.csprojResolveAssemblyReference.cache
+C:\Users\63565\Documents\Visual Studio 2013\Projects\SuperSocketGPS\SuperSocket\SuperSocketGPS\bin\Debug\SuperSocketGPS.exe.config
+C:\Users\63565\Documents\Visual Studio 2013\Projects\SuperSocketGPS\SuperSocket\SuperSocketGPS\obj\Debug\SuperSocketGPS.exe
+C:\Users\63565\Documents\Visual Studio 2013\Projects\SuperSocketGPS\SuperSocket\SuperSocketGPS\obj\Debug\SuperSocketGPS.pdb
