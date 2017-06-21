@@ -1,9 +1,0 @@
-﻿2017-06-20 11:19:22,307 [13] ERROR DefaultBootstrap - The process crashed for an unhandled exception!
-System.Exception: 数据包格式错误！
-   在 SuperSocketGPS.SuperSocket.BsPackage.Construct(IList`1 source) 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 189
-   在 SuperSocketGPS.SuperSocket.BsPackage.<>c.<StartConsuming>b__6_0() 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 77
-   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
-   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
-   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
-   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
-   在 System.Threading.ThreadHelper.ThreadStart()
