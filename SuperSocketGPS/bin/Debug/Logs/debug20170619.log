@@ -1,0 +1,231 @@
+﻿2017-06-19 10:25:27,514 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 10:25:27,562 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 10:25:27,574 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 10:25:28,328 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 10:25:28,328 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 10:25:28,339 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 10:25:28,371 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 10:26:58,679 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 10:26:58,724 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 10:26:58,737 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 10:26:59,502 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 10:26:59,502 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 10:26:59,519 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 10:26:59,524 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 10:27:36,650 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was stoppped
+2017-06-19 10:27:37,551 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
+2017-06-19 10:27:45,002 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 10:27:45,011 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 10:27:45,012 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 10:27:45,083 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 10:27:45,083 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 10:27:45,084 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 10:27:45,084 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 10:31:07,706 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 10:31:07,750 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 10:31:07,764 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 10:31:08,540 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 10:31:08,540 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 10:31:08,554 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 10:31:08,558 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 10:33:58,520 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 10:33:58,567 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 10:33:58,580 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 10:33:59,334 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 10:33:59,334 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 10:33:59,348 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 10:33:59,353 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 10:35:36,105 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 10:35:36,154 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 10:35:36,167 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 10:35:36,944 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 10:35:36,944 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 10:35:36,958 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 10:35:36,962 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 10:36:38,110 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 10:36:38,150 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 10:36:38,163 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 10:36:38,881 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 10:36:38,881 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 10:36:38,893 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 10:36:38,897 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 10:37:36,883 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was stoppped
+2017-06-19 10:37:37,548 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
+2017-06-19 10:37:38,147 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 10:37:38,155 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 10:37:38,156 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 10:37:38,220 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 10:37:38,220 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 10:37:38,221 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 10:37:38,221 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 10:40:51,876 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 10:40:51,914 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 10:40:51,925 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 10:40:52,643 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 10:40:52,643 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 10:40:52,655 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 10:40:52,659 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 10:42:06,930 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 10:42:06,968 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 10:42:06,978 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 10:42:07,678 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 10:42:07,678 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 10:42:07,689 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 10:42:07,693 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 10:42:43,539 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 10:42:43,575 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 10:42:43,586 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 10:42:44,285 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 10:42:44,285 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 10:42:44,296 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 10:42:44,299 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 10:45:07,255 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 10:45:07,291 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 10:45:07,302 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 10:45:07,979 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 10:45:07,979 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 10:45:07,990 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 10:45:07,993 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 10:47:44,450 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 10:47:44,487 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 10:47:44,498 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 10:47:45,177 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 10:47:45,177 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 10:47:45,189 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 10:47:45,194 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 10:48:40,352 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was stoppped
+2017-06-19 10:48:41,206 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
+2017-06-19 10:49:03,470 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 10:49:03,506 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 10:49:03,517 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 10:49:04,159 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 10:49:04,159 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 10:49:04,169 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 10:49:04,173 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 10:58:05,867 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 10:58:05,903 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 10:58:05,914 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 10:58:06,610 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 10:58:06,610 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 10:58:06,622 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 10:58:06,626 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 11:02:40,733 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 11:02:40,769 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 11:02:40,780 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 11:02:41,439 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 11:02:41,439 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 11:02:41,450 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 11:02:41,454 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 11:07:33,789 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 11:07:33,827 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 11:07:33,838 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 11:07:34,507 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 11:07:34,507 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 11:07:34,519 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 11:07:34,523 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 11:09:44,713 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 11:09:44,749 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 11:09:44,760 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 11:09:45,443 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 11:09:45,443 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 11:09:45,454 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 11:09:45,458 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 11:12:06,294 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was stoppped
+2017-06-19 11:12:06,863 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
+2017-06-19 11:12:53,450 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 11:12:53,487 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 11:12:53,498 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 11:12:54,186 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 11:12:54,186 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 11:12:54,197 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 11:12:54,201 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 13:15:46,218 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was stoppped
+2017-06-19 13:15:46,900 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
+2017-06-19 13:15:47,849 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 13:15:47,857 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 13:15:47,859 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 13:15:47,908 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 13:15:47,909 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 13:15:47,910 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 13:15:47,910 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 13:16:05,543 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was stoppped
+2017-06-19 13:16:06,750 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
+2017-06-19 13:16:34,431 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 13:16:34,438 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 13:16:34,438 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 13:16:34,484 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 13:16:34,484 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 13:16:34,485 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 13:16:34,485 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 13:17:04,444 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 13:17:04,480 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 13:17:04,491 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 13:17:05,201 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 13:17:05,201 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 13:17:05,213 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 13:17:05,217 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 13:34:43,699 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 13:34:43,742 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 13:34:43,753 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 13:34:44,436 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 13:34:44,436 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 13:34:44,447 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 13:34:44,451 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 13:45:52,493 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 13:45:52,531 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 13:45:52,543 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 13:45:53,236 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 13:45:53,236 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 13:45:53,247 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 13:45:53,251 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 13:47:00,103 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 13:47:00,151 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 13:47:00,167 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 13:47:00,861 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 13:47:00,861 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 13:47:00,874 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 13:47:00,878 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 13:49:11,136 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was stoppped
+2017-06-19 13:49:12,270 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
+2017-06-19 13:49:15,316 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 13:49:15,325 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 13:49:15,325 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 13:49:15,386 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 13:49:15,386 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 13:49:15,387 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 13:49:15,388 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 17:02:45,411 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 17:02:45,448 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 17:02:45,458 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 17:02:46,151 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 17:02:46,151 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 17:02:46,163 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 17:02:46,166 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 17:10:05,779 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 17:10:05,815 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 17:10:05,826 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 17:10:06,521 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 17:10:06,521 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 17:10:06,532 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 17:10:06,536 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 17:14:36,452 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 17:14:36,489 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 17:14:36,499 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 17:14:37,184 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 17:14:37,185 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 17:14:37,195 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 17:14:37,199 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 17:22:01,311 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 17:22:01,350 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 17:22:01,360 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 17:22:02,076 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 17:22:02,076 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 17:22:02,087 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 17:22:02,091 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-06-19 18:44:12,706 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been created!
+2017-06-19 18:44:12,743 [1] DEBUG SuperSocketGPS - The command BsProtocolRequestInfoCommand(SuperSocketGPS.SuperSocket.BsProtocolRequestInfoCommand, SuperSocketGPS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-06-19 18:44:12,754 [1] DEBUG DefaultBootstrap - The server instance SuperSocketGPS has been initialized!
+2017-06-19 18:44:13,424 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-06-19 18:44:13,424 [1] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-06-19 18:44:13,436 [1] DEBUG SuperSocketGPS - Listener (0.0.0.0:2020) was started
+2017-06-19 18:44:13,440 [1] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!

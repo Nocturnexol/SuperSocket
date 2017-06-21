@@ -1,0 +1,1876 @@
+﻿2017-06-20 11:12:46,218 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 56,647,680.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:12:46
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 11:13:46,250 Performance - ---------------------------------------------------
+CPU Usage: 0.08%, Physical Memory Usage: 59,461,632.00, Total Thread Count: 25
+AvailableWorkingThreads: 2045, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:12:46
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:14:22,397 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 59,502,592.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:14:22
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 11:15:22,422 Performance - ---------------------------------------------------
+CPU Usage: 1.69%, Physical Memory Usage: 63,000,576.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:14:22
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 101
+Request Handling Speed (#/second): 2
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:16:22,462 Performance - ---------------------------------------------------
+CPU Usage: 0.06%, Physical Memory Usage: 62,758,912.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:14:22
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 101
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:17:22,439 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 62,812,160.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:14:22
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 101
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:18:22,447 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 62,754,816.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:14:22
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 101
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:19:00,635 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 56,504,320.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:19:00
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 11:22:34,314 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 56,434,688.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:22:34
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 11:23:34,312 Performance - ---------------------------------------------------
+CPU Usage: 19.32%, Physical Memory Usage: 64,442,368.00, Total Thread Count: 29
+AvailableWorkingThreads: 2045, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:22:34
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 147
+Request Handling Speed (#/second): 2
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:24:34,342 Performance - ---------------------------------------------------
+CPU Usage: 11.48%, Physical Memory Usage: 65,867,776.00, Total Thread Count: 29
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:22:34
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 1
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:25:34,359 Performance - ---------------------------------------------------
+CPU Usage: 3.76%, Physical Memory Usage: 65,454,080.00, Total Thread Count: 29
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:22:34
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:25:47,857 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 56,705,024.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:25:47
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 11:26:47,853 Performance - ---------------------------------------------------
+CPU Usage: 23.29%, Physical Memory Usage: 65,355,776.00, Total Thread Count: 27
+AvailableWorkingThreads: 2045, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:25:47
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 159
+Request Handling Speed (#/second): 3
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:27:35,205 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 71,118,848.00, Total Thread Count: 29
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:27:35
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 11:29:04,580 Performance - ---------------------------------------------------
+CPU Usage: 0.28%, Physical Memory Usage: 75,870,208.00, Total Thread Count: 37
+AvailableWorkingThreads: 1020, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:27:35
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:30:01,129 Performance - ---------------------------------------------------
+CPU Usage: 0.42%, Physical Memory Usage: 76,341,248.00, Total Thread Count: 37
+AvailableWorkingThreads: 1021, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:27:35
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:30:58,930 Performance - ---------------------------------------------------
+CPU Usage: 0.80%, Physical Memory Usage: 77,750,272.00, Total Thread Count: 34
+AvailableWorkingThreads: 1021, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:27:35
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:33:41,813 Performance - ---------------------------------------------------
+CPU Usage: 0.37%, Physical Memory Usage: 80,023,552.00, Total Thread Count: 34
+AvailableWorkingThreads: 1019, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:27:35
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 20
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:34:20,765 Performance - ---------------------------------------------------
+CPU Usage: 0.30%, Physical Memory Usage: 80,097,280.00, Total Thread Count: 35
+AvailableWorkingThreads: 1020, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:27:35
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 20
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:36:06,364 Performance - ---------------------------------------------------
+CPU Usage: 0.18%, Physical Memory Usage: 80,498,688.00, Total Thread Count: 34
+AvailableWorkingThreads: 1021, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:27:35
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 20
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:36:30,851 Performance - ---------------------------------------------------
+CPU Usage: 0.25%, Physical Memory Usage: 79,982,592.00, Total Thread Count: 34
+AvailableWorkingThreads: 1019, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:27:35
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 20
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:41:17,684 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 64,704,512.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:41:17
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 11:42:36,467 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 64,970,752.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:42:36
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 11:43:36,498 Performance - ---------------------------------------------------
+CPU Usage: 1.42%, Physical Memory Usage: 73,768,960.00, Total Thread Count: 27
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:42:36
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 3
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:44:36,495 Performance - ---------------------------------------------------
+CPU Usage: 0.23%, Physical Memory Usage: 73,838,592.00, Total Thread Count: 27
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:42:36
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:45:37,436 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 71,294,976.00, Total Thread Count: 29
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:45:37
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 11:47:28,622 Performance - ---------------------------------------------------
+CPU Usage: 0.26%, Physical Memory Usage: 79,482,880.00, Total Thread Count: 37
+AvailableWorkingThreads: 1020, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:45:37
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 4
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:48:01,734 Performance - ---------------------------------------------------
+CPU Usage: 0.48%, Physical Memory Usage: 79,912,960.00, Total Thread Count: 39
+AvailableWorkingThreads: 1020, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:45:37
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 11
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:49:33,887 Performance - ---------------------------------------------------
+CPU Usage: 0.44%, Physical Memory Usage: 82,722,816.00, Total Thread Count: 35
+AvailableWorkingThreads: 1019, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:45:37
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 68
+Request Handling Speed (#/second): 1
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 11:52:14,948 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 56,557,568.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:52:14
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 11:53:18,366 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 71,131,136.00, Total Thread Count: 29
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 11:53:18
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 13:11:08,018 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 64,843,776.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:11:07
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 13:15:17,201 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 71,581,696.00, Total Thread Count: 29
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:15:17
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 13:17:18,895 Performance - ---------------------------------------------------
+CPU Usage: 0.25%, Physical Memory Usage: 79,572,992.00, Total Thread Count: 36
+AvailableWorkingThreads: 1021, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:15:17
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:17:35,892 Performance - ---------------------------------------------------
+CPU Usage: 0.31%, Physical Memory Usage: 79,736,832.00, Total Thread Count: 38
+AvailableWorkingThreads: 1021, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:15:17
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:18:41,928 Performance - ---------------------------------------------------
+CPU Usage: 0.36%, Physical Memory Usage: 80,437,248.00, Total Thread Count: 38
+AvailableWorkingThreads: 1020, AvailableCompletionPortThreads: 999
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:15:17
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 4
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:19:27,744 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 71,327,744.00, Total Thread Count: 29
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:19:27
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 13:19:35,414 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 77,246,464.00, Total Thread Count: 33
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:19:35
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 13:20:50,426 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 62,881,792.00, Total Thread Count: 29
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 13:22:10,063 Performance - ---------------------------------------------------
+CPU Usage: 0.34%, Physical Memory Usage: 68,341,760.00, Total Thread Count: 36
+AvailableWorkingThreads: 1019, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:20:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 2
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:26:15,640 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 56,684,544.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:26:15
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 13:27:15,656 Performance - ---------------------------------------------------
+CPU Usage: 2.15%, Physical Memory Usage: 65,425,408.00, Total Thread Count: 29
+AvailableWorkingThreads: 2044, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:26:15
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 3
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:27:40,678 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 64,724,992.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 13:28:40,686 Performance - ---------------------------------------------------
+CPU Usage: 4.16%, Physical Memory Usage: 71,987,200.00, Total Thread Count: 27
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 3
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:29:40,705 Performance - ---------------------------------------------------
+CPU Usage: 5.03%, Physical Memory Usage: 72,704,000.00, Total Thread Count: 27
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:30:40,719 Performance - ---------------------------------------------------
+CPU Usage: 4.35%, Physical Memory Usage: 71,757,824.00, Total Thread Count: 26
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:31:40,728 Performance - ---------------------------------------------------
+CPU Usage: 3.38%, Physical Memory Usage: 71,737,344.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:32:40,796 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 71,311,360.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:33:40,781 Performance - ---------------------------------------------------
+CPU Usage: 0.07%, Physical Memory Usage: 69,902,336.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:34:40,811 Performance - ---------------------------------------------------
+CPU Usage: 0.05%, Physical Memory Usage: 70,250,496.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:35:40,772 Performance - ---------------------------------------------------
+CPU Usage: 0.02%, Physical Memory Usage: 71,041,024.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:36:40,794 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 71,041,024.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:37:40,795 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 71,016,448.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:38:40,809 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 71,286,784.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-06-20 13:39:40,790 Performance - ---------------------------------------------------
+CPU Usage: 2.87%, Physical Memory Usage: 74,440,704.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 578
+Request Handling Speed (#/second): 7
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-06-20 13:40:40,779 Performance - ---------------------------------------------------
+CPU Usage: 3.99%, Physical Memory Usage: 74,440,704.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 578
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-06-20 13:41:40,775 Performance - ---------------------------------------------------
+CPU Usage: 3.74%, Physical Memory Usage: 73,687,040.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 578
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-06-20 13:42:40,807 Performance - ---------------------------------------------------
+CPU Usage: 3.77%, Physical Memory Usage: 73,691,136.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 578
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-06-20 13:43:40,820 Performance - ---------------------------------------------------
+CPU Usage: 4.80%, Physical Memory Usage: 72,896,512.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 578
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-06-20 13:44:40,820 Performance - ---------------------------------------------------
+CPU Usage: 4.22%, Physical Memory Usage: 71,753,728.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 578
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-06-20 13:45:40,818 Performance - ---------------------------------------------------
+CPU Usage: 3.76%, Physical Memory Usage: 73,117,696.00, Total Thread Count: 26
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 578
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-06-20 13:46:40,833 Performance - ---------------------------------------------------
+CPU Usage: 1.90%, Physical Memory Usage: 72,531,968.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 578
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-06-20 13:47:40,859 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 72,531,968.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 578
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-06-20 13:48:40,825 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 72,187,904.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 578
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-06-20 13:49:40,853 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 72,998,912.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 578
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-06-20 13:50:40,822 Performance - ---------------------------------------------------
+CPU Usage: 0.02%, Physical Memory Usage: 72,929,280.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 578
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-06-20 13:51:40,872 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 72,937,472.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 578
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-06-20 13:52:40,824 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 73,195,520.00, Total Thread Count: 25
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:27:40
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 578
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-06-20 13:54:00,469 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 61,542,400.00, Total Thread Count: 26
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:54:00
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 13:55:11,510 Performance - ---------------------------------------------------
+CPU Usage: 1.80%, Physical Memory Usage: 71,372,800.00, Total Thread Count: 33
+AvailableWorkingThreads: 2044, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:54:00
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 3
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:56:54,823 Performance - ---------------------------------------------------
+CPU Usage: 0.74%, Physical Memory Usage: 71,720,960.00, Total Thread Count: 37
+AvailableWorkingThreads: 2041, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:54:00
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:57:49,818 Performance - ---------------------------------------------------
+CPU Usage: 0.24%, Physical Memory Usage: 72,056,832.00, Total Thread Count: 30
+AvailableWorkingThreads: 2044, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:54:00
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:58:32,547 Performance - ---------------------------------------------------
+CPU Usage: 0.21%, Physical Memory Usage: 71,831,552.00, Total Thread Count: 30
+AvailableWorkingThreads: 2043, AvailableCompletionPortThreads: 999
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:54:00
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 13:59:20,070 Performance - ---------------------------------------------------
+CPU Usage: 2.28%, Physical Memory Usage: 71,159,808.00, Total Thread Count: 29
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:54:00
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:00:20,078 Performance - ---------------------------------------------------
+CPU Usage: 1.97%, Physical Memory Usage: 71,196,672.00, Total Thread Count: 29
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:54:00
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:01:20,095 Performance - ---------------------------------------------------
+CPU Usage: 1.11%, Physical Memory Usage: 71,503,872.00, Total Thread Count: 28
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 13:54:00
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:01:44,898 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 71,094,272.00, Total Thread Count: 29
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:01:44
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 14:02:44,870 Performance - ---------------------------------------------------
+CPU Usage: 1.15%, Physical Memory Usage: 81,817,600.00, Total Thread Count: 39
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:01:44
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 3
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:05:54,705 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 71,352,320.00, Total Thread Count: 29
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 14:06:54,688 Performance - ---------------------------------------------------
+CPU Usage: 5.52%, Physical Memory Usage: 87,216,128.00, Total Thread Count: 35
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 3
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:07:54,718 Performance - ---------------------------------------------------
+CPU Usage: 0.06%, Physical Memory Usage: 87,662,592.00, Total Thread Count: 35
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:09:04,613 Performance - ---------------------------------------------------
+CPU Usage: 1.41%, Physical Memory Usage: 87,891,968.00, Total Thread Count: 38
+AvailableWorkingThreads: 1019, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 334
+Request Handling Speed (#/second): 2
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:09:59,349 Performance - ---------------------------------------------------
+CPU Usage: 4.21%, Physical Memory Usage: 90,087,424.00, Total Thread Count: 34
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 375
+Request Handling Speed (#/second): 1
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:10:59,355 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 90,152,960.00, Total Thread Count: 34
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 375
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:11:59,365 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 84,369,408.00, Total Thread Count: 35
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 375
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:12:59,358 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 84,439,040.00, Total Thread Count: 34
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 375
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:13:59,347 Performance - ---------------------------------------------------
+CPU Usage: 0.05%, Physical Memory Usage: 83,644,416.00, Total Thread Count: 34
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 375
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:14:59,360 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 83,390,464.00, Total Thread Count: 34
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 375
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:15:59,389 Performance - ---------------------------------------------------
+CPU Usage: 0.17%, Physical Memory Usage: 20,029,440.00, Total Thread Count: 33
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 375
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:16:59,377 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 24,006,656.00, Total Thread Count: 33
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 375
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:17:59,390 Performance - ---------------------------------------------------
+CPU Usage: 0.06%, Physical Memory Usage: 27,934,720.00, Total Thread Count: 33
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 375
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:18:59,399 Performance - ---------------------------------------------------
+CPU Usage: 0.06%, Physical Memory Usage: 30,441,472.00, Total Thread Count: 32
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 376
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:20:38,937 Performance - ---------------------------------------------------
+CPU Usage: 0.15%, Physical Memory Usage: 33,148,928.00, Total Thread Count: 31
+AvailableWorkingThreads: 1019, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:21:17,071 Performance - ---------------------------------------------------
+CPU Usage: 0.08%, Physical Memory Usage: 33,218,560.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:22:17,086 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 33,222,656.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:23:17,130 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 33,685,504.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:24:17,140 Performance - ---------------------------------------------------
+CPU Usage: 0.08%, Physical Memory Usage: 36,216,832.00, Total Thread Count: 32
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:25:17,177 Performance - ---------------------------------------------------
+CPU Usage: 0.18%, Physical Memory Usage: 35,917,824.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:26:17,155 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 36,196,352.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:27:17,162 Performance - ---------------------------------------------------
+CPU Usage: 0.11%, Physical Memory Usage: 36,179,968.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:28:17,147 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 36,171,776.00, Total Thread Count: 30
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:29:17,192 Performance - ---------------------------------------------------
+CPU Usage: 0.05%, Physical Memory Usage: 36,204,544.00, Total Thread Count: 30
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:30:17,181 Performance - ---------------------------------------------------
+CPU Usage: 0.05%, Physical Memory Usage: 36,196,352.00, Total Thread Count: 30
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:31:17,186 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 36,347,904.00, Total Thread Count: 30
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:32:17,183 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 36,380,672.00, Total Thread Count: 30
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:33:17,186 Performance - ---------------------------------------------------
+CPU Usage: 0.07%, Physical Memory Usage: 36,683,776.00, Total Thread Count: 30
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:34:17,186 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 36,683,776.00, Total Thread Count: 30
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:35:17,203 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 36,716,544.00, Total Thread Count: 30
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:36:17,242 Performance - ---------------------------------------------------
+CPU Usage: 0.05%, Physical Memory Usage: 36,724,736.00, Total Thread Count: 30
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:37:17,251 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 36,732,928.00, Total Thread Count: 30
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:38:17,265 Performance - ---------------------------------------------------
+CPU Usage: 0.05%, Physical Memory Usage: 36,765,696.00, Total Thread Count: 30
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:39:17,243 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 36,737,024.00, Total Thread Count: 30
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:40:17,274 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 36,737,024.00, Total Thread Count: 30
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:05:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 377
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:40:54,204 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 42,668,032.00, Total Thread Count: 30
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 14:41:54,202 Performance - ---------------------------------------------------
+CPU Usage: 0.11%, Physical Memory Usage: 6,561,792.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:42:54,244 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 15,884,288.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:43:54,220 Performance - ---------------------------------------------------
+CPU Usage: 0.02%, Physical Memory Usage: 17,281,024.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:44:54,231 Performance - ---------------------------------------------------
+CPU Usage: 0.07%, Physical Memory Usage: 22,196,224.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:45:54,246 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 12,775,424.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:46:54,248 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 14,962,688.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:47:54,211 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 15,581,184.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:48:54,253 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 17,391,616.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:49:54,264 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 17,948,672.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:50:54,287 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 17,989,632.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:51:54,267 Performance - ---------------------------------------------------
+CPU Usage: 0.05%, Physical Memory Usage: 22,179,840.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:52:54,259 Performance - ---------------------------------------------------
+CPU Usage: 0.02%, Physical Memory Usage: 22,147,072.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:53:54,239 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 22,155,264.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:54:54,250 Performance - ---------------------------------------------------
+CPU Usage: 0.02%, Physical Memory Usage: 22,188,032.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:55:54,287 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 22,200,320.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 14:56:54,306 Performance - ---------------------------------------------------
+CPU Usage: 0.05%, Physical Memory Usage: 22,208,512.00, Total Thread Count: 31
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 14:40:54
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 15:04:04,419 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 57,110,528.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 15:04:04
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-06-20 15:05:04,464 Performance - ---------------------------------------------------
+CPU Usage: 5.28%, Physical Memory Usage: 76,947,456.00, Total Thread Count: 27
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 15:04:04
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 187
+Request Handling Speed (#/second): 3
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-06-20 15:50:03,376 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 64,348,160.00, Total Thread Count: 24
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+SuperSocketGPS ----------------------------------
+Started Time: 2017/6/20 15:50:03
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+

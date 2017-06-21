@@ -1,0 +1,63 @@
+﻿2017-06-19 10:25:45,801 [13] ERROR DefaultBootstrap - The process crashed for an unhandled exception!
+System.OverflowException: 算术运算导致溢出。
+   在 SuperSocket.Common.BinaryUtil.CloneRange[T](IList`1 source, Int32 offset, Int32 length)
+   在 SuperSocketGPS.SuperSocket.BsPackage.ConstructBody(Byte[] arr) 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 140
+   在 SuperSocketGPS.SuperSocket.BsPackage.Construct(IList`1 source) 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 131
+   在 SuperSocketGPS.SuperSocket.BsPackage.<>c.<StartConstructThread>b__5_0() 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 29
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+2017-06-19 10:37:53,949 [4] ERROR DefaultBootstrap - The process crashed for an unhandled exception!
+System.Exception: 数据包格式错误！
+   在 SuperSocketGPS.SuperSocket.BsPackage.Construct(IList`1 source) 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 133
+   在 SuperSocketGPS.SuperSocket.BsPackage.<>c.<StartConstructThread>b__5_0() 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 29
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+2017-06-19 10:37:53,953 [4] ERROR DefaultBootstrap - The process crashed for an unhandled exception!
+System.Exception: 数据包格式错误！
+   在 SuperSocketGPS.SuperSocket.BsPackage.Construct(IList`1 source) 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 133
+   在 SuperSocketGPS.SuperSocket.BsPackage.<>c.<StartConstructThread>b__5_0() 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 29
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+2017-06-19 10:41:13,921 [12] ERROR DefaultBootstrap - The process crashed for an unhandled exception!
+System.ArgumentException: 源数组长度不足。请检查 srcIndex 和长度以及数组的下限。
+   在 System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length, Boolean reliable)
+   在 System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length)
+   在 SuperSocket.Common.BinaryUtil.CloneRange[T](IList`1 source, Int32 offset, Int32 length)
+   在 SuperSocketGPS.SuperSocket.BsPackage.Construct(IList`1 source) 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 131
+   在 SuperSocketGPS.SuperSocket.BsPackage.<>c.<StartConstructThread>b__5_0() 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 29
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+2017-06-19 10:42:26,729 [12] ERROR DefaultBootstrap - The process crashed for an unhandled exception!
+System.OverflowException: 算术运算导致溢出。
+   在 SuperSocket.Common.BinaryUtil.CloneRange[T](IList`1 source, Int32 offset, Int32 length)
+   在 SuperSocketGPS.SuperSocket.BsPackage.ConstructBody(Byte[] arr) 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 139
+   在 SuperSocketGPS.SuperSocket.BsPackage.Construct(IList`1 source) 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 131
+   在 SuperSocketGPS.SuperSocket.BsPackage.<>c.<StartConstructThread>b__5_0() 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 29
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+2017-06-19 10:44:00,960 [12] ERROR DefaultBootstrap - The process crashed for an unhandled exception!
+System.OverflowException: 算术运算导致溢出。
+   在 SuperSocket.Common.BinaryUtil.CloneRange[T](IList`1 source, Int32 offset, Int32 length)
+   在 SuperSocketGPS.SuperSocket.BsPackage.ConstructBody(Byte[] arr) 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 139
+   在 SuperSocketGPS.SuperSocket.BsPackage.Construct(IList`1 source) 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 131
+   在 SuperSocketGPS.SuperSocket.BsPackage.<>c.<StartConstructThread>b__5_0() 位置 C:\Users\63565\documents\visual studio 2013\Projects\SuperSocketGPS\SuperSocketGPS\SuperSocket\BsPackage.cs:行号 29
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()

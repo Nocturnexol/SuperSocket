@@ -1,0 +1,184 @@
+﻿2017-06-19 10:25:28,366 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 10:25:31,402 [5] INFO  SuperSocketGPS - Session: ddc6e8c2-9be6-4f39-bba4-3f3ef475442b/192.168.1.104:16620
+A new session connected!
+2017-06-19 10:25:31,402 [5] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 10:26:59,519 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 10:27:21,046 [4] INFO  SuperSocketGPS - Session: 12ab15a1-4640-43f5-a89c-b4bc61a4f072/192.168.1.104:16640
+A new session connected!
+2017-06-19 10:27:21,047 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 10:27:37,548 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been stopped!
+2017-06-19 10:27:37,552 [8] INFO  SuperSocketGPS - Session: 12ab15a1-4640-43f5-a89c-b4bc61a4f072/192.168.1.104:16640
+This session was closed for ServerShutdown!
+2017-06-19 10:27:37,554 [8] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:断开连接
+192.168.1.104:16640连接断开. 断开原因:ServerShutdown
+2017-06-19 10:27:45,084 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 10:27:47,672 [14] INFO  SuperSocketGPS - Session: 16d4bde0-1362-4e21-8d7b-5c0caed90665/192.168.1.104:16645
+A new session connected!
+2017-06-19 10:27:47,672 [14] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 10:31:08,555 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 10:31:14,412 [4] INFO  SuperSocketGPS - Session: 712e3a24-6a5a-45b5-80c8-a8300b3887bc/192.168.1.104:16676
+A new session connected!
+2017-06-19 10:31:14,412 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 10:33:59,349 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 10:34:02,892 [4] INFO  SuperSocketGPS - Session: 0c5e5232-dab0-4d69-b758-989a9aa0b254/192.168.1.104:16717
+A new session connected!
+2017-06-19 10:34:02,893 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 10:35:36,958 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 10:35:39,489 [4] INFO  SuperSocketGPS - Session: d2d445f0-264e-4f14-8d06-63d675d5a73c/192.168.1.104:16736
+A new session connected!
+2017-06-19 10:35:39,489 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 10:36:38,893 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 10:36:42,529 [4] INFO  SuperSocketGPS - Session: ba311f4b-b3d0-4fad-ab1f-82a81c3ec35a/192.168.1.104:16751
+A new session connected!
+2017-06-19 10:36:42,530 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 10:37:34,304 [8] INFO  SuperSocketGPS - Session: ba311f4b-b3d0-4fad-ab1f-82a81c3ec35a/192.168.1.104:16751
+This session was closed for ClientClosing!
+2017-06-19 10:37:34,304 [8] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:断开连接
+192.168.1.104:16751连接断开. 断开原因:ClientClosing
+2017-06-19 10:37:37,547 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been stopped!
+2017-06-19 10:37:38,221 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 10:37:40,846 [14] INFO  SuperSocketGPS - Session: 47bbb508-3dd0-4034-ab6c-de8ff880031e/192.168.1.104:16767
+A new session connected!
+2017-06-19 10:37:40,846 [14] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 10:40:52,656 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 10:40:56,206 [4] INFO  SuperSocketGPS - Session: 1d7bd275-589b-404b-8866-a119ccbede57/192.168.1.104:16794
+A new session connected!
+2017-06-19 10:40:56,206 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 10:42:07,689 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 10:42:16,305 [4] INFO  SuperSocketGPS - Session: 2c9194d6-a439-45fa-9486-9979f49e11fd/192.168.1.104:16808
+A new session connected!
+2017-06-19 10:42:16,305 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 10:42:44,296 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 10:42:50,836 [4] INFO  SuperSocketGPS - Session: 2bac078b-9d92-4012-933a-acc206079c86/192.168.1.104:16814
+A new session connected!
+2017-06-19 10:42:50,836 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 10:45:07,990 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 10:45:11,492 [4] INFO  SuperSocketGPS - Session: a6e4941b-f2ef-4f41-9043-9580b9d71df0/192.168.1.104:16843
+A new session connected!
+2017-06-19 10:45:11,493 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 10:47:45,189 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 10:47:56,035 [4] INFO  SuperSocketGPS - Session: d74e5930-27e3-444d-a5dc-e303ae0584f7/192.168.1.104:16874
+A new session connected!
+2017-06-19 10:47:56,036 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 10:48:41,204 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been stopped!
+2017-06-19 10:48:41,207 [8] INFO  SuperSocketGPS - Session: d74e5930-27e3-444d-a5dc-e303ae0584f7/192.168.1.104:16874
+This session was closed for ServerShutdown!
+2017-06-19 10:48:41,209 [8] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:断开连接
+192.168.1.104:16874连接断开. 断开原因:ServerShutdown
+2017-06-19 10:49:04,170 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 10:49:22,069 [4] INFO  SuperSocketGPS - Session: 7cb8987c-b0d7-479f-afe2-6806a2f1d98b/192.168.1.104:16887
+A new session connected!
+2017-06-19 10:49:22,070 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 10:57:47,039 [9] INFO  SuperSocketGPS - Session: 7cb8987c-b0d7-479f-afe2-6806a2f1d98b/192.168.1.104:16887
+This session was closed for ClientClosing!
+2017-06-19 10:57:47,040 [9] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:断开连接
+192.168.1.104:16887连接断开. 断开原因:ClientClosing
+2017-06-19 10:58:06,622 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 10:58:09,643 [4] INFO  SuperSocketGPS - Session: 9bac627e-a3e8-4442-98ed-2c165051a1f7/192.168.1.104:16981
+A new session connected!
+2017-06-19 10:58:09,644 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 11:02:41,451 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 11:02:45,333 [4] INFO  SuperSocketGPS - Session: da986be1-ea18-42ed-8e3b-fc48dd9f1d2d/192.168.1.104:17040
+A new session connected!
+2017-06-19 11:02:45,334 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 11:07:34,519 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 11:07:50,827 [4] INFO  SuperSocketGPS - Session: 76faf138-9c54-4de9-a7f0-2393b3ea9932/192.168.1.104:17085
+A new session connected!
+2017-06-19 11:07:50,828 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 11:09:45,455 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 11:09:49,757 [4] INFO  SuperSocketGPS - Session: a4b9e75a-2d29-4356-8ce1-624c46aa702b/192.168.1.104:17109
+A new session connected!
+2017-06-19 11:09:49,758 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 11:12:06,857 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been stopped!
+2017-06-19 11:12:06,861 [8] INFO  SuperSocketGPS - Session: a4b9e75a-2d29-4356-8ce1-624c46aa702b/192.168.1.104:17109
+This session was closed for ServerShutdown!
+2017-06-19 11:12:06,862 [8] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:断开连接
+192.168.1.104:17109连接断开. 断开原因:ServerShutdown
+2017-06-19 11:12:54,197 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 11:12:58,762 [4] INFO  SuperSocketGPS - Session: 620a5aba-11a3-48d7-bd30-668865b1df92/192.168.1.104:17144
+A new session connected!
+2017-06-19 11:12:58,763 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 11:34:00,738 [8] INFO  SuperSocketGPS - Session: 620a5aba-11a3-48d7-bd30-668865b1df92/192.168.1.104:17144
+This session was closed for ClientClosing!
+2017-06-19 11:34:00,739 [8] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:断开连接
+192.168.1.104:17144连接断开. 断开原因:ClientClosing
+2017-06-19 11:34:01,265 [15] INFO  SuperSocketGPS - Session: ecb3c094-1419-42c4-af99-1cca2974e5ce/192.168.1.104:17410
+A new session connected!
+2017-06-19 11:34:01,265 [15] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 11:34:02,273 [10] INFO  SuperSocketGPS - Session: ecb3c094-1419-42c4-af99-1cca2974e5ce/192.168.1.104:17410
+This session was closed for ClientClosing!
+2017-06-19 11:34:02,273 [10] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:断开连接
+192.168.1.104:17410连接断开. 断开原因:ClientClosing
+2017-06-19 11:34:02,833 [15] INFO  SuperSocketGPS - Session: 6541c88a-5d4e-4483-a6ec-c2eb998cd415/192.168.1.104:17412
+A new session connected!
+2017-06-19 11:34:02,833 [15] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 13:15:41,445 [8] INFO  SuperSocketGPS - Session: 6541c88a-5d4e-4483-a6ec-c2eb998cd415/192.168.1.104:17412
+This session was closed for ClientClosing!
+2017-06-19 13:15:41,446 [8] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:断开连接
+192.168.1.104:17412连接断开. 断开原因:ClientClosing
+2017-06-19 13:15:42,144 [16] INFO  SuperSocketGPS - Session: fedb1cd5-2773-43a7-a851-5fa60715e68d/192.168.1.104:18524
+A new session connected!
+2017-06-19 13:15:42,144 [16] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 13:15:46,899 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been stopped!
+2017-06-19 13:15:46,900 [8] INFO  SuperSocketGPS - Session: fedb1cd5-2773-43a7-a851-5fa60715e68d/192.168.1.104:18524
+This session was closed for ServerShutdown!
+2017-06-19 13:15:46,900 [8] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:断开连接
+192.168.1.104:18524连接断开. 断开原因:ServerShutdown
+2017-06-19 13:15:47,910 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 13:15:51,042 [16] INFO  SuperSocketGPS - Session: cb77c0c0-d089-4ba5-8cbb-c4cee09a371a/192.168.1.104:18527
+A new session connected!
+2017-06-19 13:15:51,042 [16] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 13:16:04,857 [9] INFO  SuperSocketGPS - Session: cb77c0c0-d089-4ba5-8cbb-c4cee09a371a/192.168.1.104:18527
+This session was closed for SocketError!
+2017-06-19 13:16:04,857 [9] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:断开连接
+192.168.1.104:18527连接断开. 断开原因:SocketError
+2017-06-19 13:16:06,750 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been stopped!
+2017-06-19 13:16:34,485 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 13:16:38,471 [16] INFO  SuperSocketGPS - Session: 1cc391ed-d246-4655-b02c-2bd2593c1786/192.168.1.104:18540
+A new session connected!
+2017-06-19 13:16:38,471 [16] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 13:17:05,213 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 13:17:12,365 [4] INFO  SuperSocketGPS - Session: b04dafba-bd36-44bf-905b-fdbc9e9733dc/192.168.1.104:18555
+A new session connected!
+2017-06-19 13:17:12,366 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 13:34:44,447 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 13:35:16,741 [4] INFO  SuperSocketGPS - Session: f2ad9ce2-93fa-4eec-9006-a59d00797569/192.168.1.104:18848
+A new session connected!
+2017-06-19 13:35:16,742 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 13:45:53,248 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 13:46:18,436 [4] INFO  SuperSocketGPS - Session: 9add7caa-642e-4771-a9a2-4d4124d09de0/192.168.1.104:19206
+A new session connected!
+2017-06-19 13:46:18,437 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 13:47:00,874 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 13:47:11,661 [4] INFO  SuperSocketGPS - Session: 526782e5-abe5-47c2-81dd-99443ac0029b/192.168.1.104:19226
+A new session connected!
+2017-06-19 13:47:11,662 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 13:49:12,268 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been stopped!
+2017-06-19 13:49:12,271 [15] INFO  SuperSocketGPS - Session: 526782e5-abe5-47c2-81dd-99443ac0029b/192.168.1.104:19226
+This session was closed for ServerShutdown!
+2017-06-19 13:49:12,272 [15] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:断开连接
+192.168.1.104:19226连接断开. 断开原因:ServerShutdown
+2017-06-19 13:49:15,387 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 13:49:20,405 [20] INFO  SuperSocketGPS - Session: a0e5068a-89ee-4dea-8ab8-8de559b77d57/192.168.1.104:19248
+A new session connected!
+2017-06-19 13:49:20,405 [20] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 17:02:46,163 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 17:03:38,052 [4] INFO  SuperSocketGPS - Session: 97a00d2b-a5d8-4a9a-89c8-8832e9e2d9ef/192.168.1.104:21691
+A new session connected!
+2017-06-19 17:03:38,053 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 17:10:06,533 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 17:10:13,780 [4] INFO  SuperSocketGPS - Session: 1dd7f67a-794a-4603-8daa-bf68da61f418/192.168.1.104:21755
+A new session connected!
+2017-06-19 17:10:13,781 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 17:14:37,196 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 17:14:41,348 [4] INFO  SuperSocketGPS - Session: 75246062-bbf7-4860-aef5-9aab0fdaaa9c/192.168.1.104:21825
+A new session connected!
+2017-06-19 17:14:41,348 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 17:22:02,088 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 17:22:07,810 [4] INFO  SuperSocketGPS - Session: 4d2a16ad-e160-4825-b33c-69d362e48ab6/192.168.1.104:21895
+A new session connected!
+2017-06-19 17:22:07,811 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
+2017-06-19 18:44:13,436 [1] INFO  SuperSocketGPS - The server instance SuperSocketGPS has been started!
+2017-06-19 18:44:23,148 [4] INFO  SuperSocketGPS - Session: 093545d7-cbe9-4c9e-ad48-e2d9db9a672f/192.168.1.104:23828
+A new session connected!
+2017-06-19 18:44:23,149 [4] INFO  SuperSocketGPS.SuperSocket.BsProtocolServer - 192.168.1.104:连接
